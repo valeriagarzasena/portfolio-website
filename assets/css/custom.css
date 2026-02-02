@@ -1,0 +1,10 @@
+/* CSS Document */
+
+.active{
+	color: #29ca8e;
+	outline: none;
+}
+
+.hide{
+	display: none;
+}
