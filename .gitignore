@@ -1,0 +1,10 @@
+# Mac system files
+.DS_Store
+
+# Dreamweaver metadata
+_notes/
+dwsync.xml
+
+# Temp files
+*.tmp
+*.log
